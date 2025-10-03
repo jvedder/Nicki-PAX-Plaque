@@ -1,4 +1,4 @@
-# Nicki PAX Sign
+# Nicki PAX Plaque
 
 Python script to generate CNC G-code for engraving a brass plaque.
 
