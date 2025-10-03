@@ -1,6 +1,6 @@
 # Nicki PAX Sign
 
-Python script to generate CNC G-code for engraving a brass sign.
+Python script to generate CNC G-code for engraving a brass plaque.
 
 Uses the Python [Hershey-Fonts](https://pypi.org/project/Hershey-Fonts/).
 
