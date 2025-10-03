@@ -47,7 +47,7 @@ def svg_footer(g):
 
 def svg_stroke(g, stroke):
     if len(stroke):
-        g.append('<polyline stroke="black" stroke-width="2" fill="transparent"')
+        g.append('<polyline stroke="black" stroke-width="10" fill="transparent"')
         pts = 'points="'
         for (x,y) in stroke:
             x = round(x, 2) * 10
