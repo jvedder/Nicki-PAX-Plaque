@@ -300,6 +300,7 @@ cnc_write(master_strokes, name + "_0.2.nc", 0.20)
 cnc_write(master_strokes, name + "_0.3.nc", 0.30)
 cnc_write(master_strokes, name + "_0.4.nc", 0.40)
 cnc_write(master_strokes, name + "_0.5.nc", 0.50)
+cnc_write(master_strokes, name + "_0.6.nc", 0.60)
 
 print("Done")
 
